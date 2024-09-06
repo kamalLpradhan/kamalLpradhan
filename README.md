@@ -1,7 +1,3 @@
-Here’s a concise and engaging GitHub profile summary for a product manager, incorporating the key points you want to highlight:
-
----
-
 👋 **Hi, I'm Kamal **  
 🚀 Product Manager | 💡 Innovator | 📊 Data-Driven Leader
 
